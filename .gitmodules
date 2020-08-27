@@ -1,0 +1,6 @@
+[submodule "mySimpleTcpClient"]
+	path = mySimpleTcpClient
+	url = ./
+[submodule "mySimpleTcpServer"]
+	path = mySimpleTcpServer
+	url = ./
