@@ -1,6 +1,6 @@
 [submodule "mySimpleTcpClient"]
 	path = mySimpleTcpClient
-	url = ./
+	url = https://github.com/mehdi-shokohi/mySimpleTcpClient
 [submodule "mySimpleTcpServer"]
 	path = mySimpleTcpServer
-	url = ./
+	url = https://github.com/mehdi-shokohi/mySimpleTcpServer
